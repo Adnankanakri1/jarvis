@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn
+anthropic
+python-dotenv
+httpx
+duckduckgo-search
